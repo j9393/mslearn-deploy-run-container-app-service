@@ -1,6 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+# Visual Studio 15 -- comment
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWeb", "SampleWeb\SampleWeb.csproj", "{B8F2A4DB-824A-4775-9037-29F730186E41}"
